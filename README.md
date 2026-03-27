@@ -49,21 +49,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakashNMyana&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashNMyana&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AakashNMyana&theme=tokyonight" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AakashNMyana&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+![Streak](https://streak-stats.demolab.com?user=AakashNMyana&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AakashNMyana&icon=0&color=0)](https://visitcount.itsvg.in)
